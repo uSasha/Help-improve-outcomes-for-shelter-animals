@@ -8,6 +8,7 @@ Algorithm we should use was Random Forest and metric was it’s oob_score.
 
 This restriction made me focus on feature engineering, which I enjoyed a lot.
 I made a lot of data modification, synthesized new features based on old ones, learned how to handle categorial features and even found a way to improve my solution with external data.
+
 My favorite part is this: I decided that size is very important for potential owner and it should inflience outcome, so I found table with breeds and it's sizes (weights) and added this data to my dataset, which lead to huge score improvement.
 
 This is one of my favorite competitions also because here all feature really made sense and a good solution potentially could make the world a better place.
